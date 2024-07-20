@@ -23,6 +23,10 @@ This project demonstrates a web page with interactive hover effects. Each label 
 * The custom cursor is implemented with JavaScript and the Kinet library, which tracks and animates the cursor position.
 * The responsive design is achieved with media queries, ensuring a consistent look and feel across different devices.
 
+## Testing🚀
+
+![About me(just)!](https://raw.githubusercontent.com/EurydiceReverie/SSB_AUTOMATIONS_WD_TASK-02/main/Assets/About%20me.mp4)
+
 ## Conclusion
 
 This project showcases an interactive web page with engaging hover effects and a custom cursor animation.     
